@@ -1,0 +1,15 @@
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/solution.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/checker.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/testing.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/Experimental.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/Nightly.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/Continuous.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/RUN_TESTS.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/ALL_BUILD.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/CMakeFiles/ZERO_CHECK.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-build/CMakeFiles/RUN_TESTS.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-build/src/CMakeFiles/RUN_TESTS.dir

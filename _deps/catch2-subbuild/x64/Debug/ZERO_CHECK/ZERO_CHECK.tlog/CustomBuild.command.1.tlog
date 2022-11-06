@@ -1,0 +1,10 @@
+^C:\USERS\КРИСТИНАКЮРКЧИЕВА\SOURCE\REPOS\HW1-TEMPLATE\_DEPS\CATCH2-SUBBUILD\CMAKEFILES\15DA0F2EDCE376AF727074D756BDB7ED\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild -BC:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/catch2-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

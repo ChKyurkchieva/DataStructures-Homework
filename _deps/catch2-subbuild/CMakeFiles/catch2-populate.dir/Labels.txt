@@ -1,0 +1,14 @@
+# Target labels
+ catch2-populate
+# Source files and their labels
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/catch2-populate
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/15da0f2edce376af727074d756bdb7ed/catch2-populate.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/cdb619f5a9d6b690060e25bcc0119e72/catch2-populate-complete.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-build.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-configure.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-download.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-install.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-mkdir.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-patch.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-test.rule
+C:/Users/КристинаКюркчиева/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-update.rule

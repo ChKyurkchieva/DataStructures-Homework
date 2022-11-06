@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/catch2-populate"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/15da0f2edce376af727074d756bdb7ed/catch2-populate.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/cdb619f5a9d6b690060e25bcc0119e72/catch2-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430\u041a\u044e\u0440\u043a\u0447\u0438\u0435\u0432\u0430/source/repos/hw1-template/_deps/catch2-subbuild/CMakeFiles/e947da75bfd40057ba9802176e31067a/catch2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch2-populate"
+		],
+		"name" : "catch2-populate"
+	}
+}

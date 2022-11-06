@@ -1,0 +1,19 @@
+Start testing: Nov 06 17:47 FLE Standard Time
+----------------------------------------------------------
+Unable to find executable: testing_NOT_BUILT-b12d07c
+1/1 Testing: testing_NOT_BUILT-b12d07c
+1/1 Test: testing_NOT_BUILT-b12d07c
+Command: ""
+Directory: C:/Users/КристинаКюркчиева/source/repos/hw1-template
+"testing_NOT_BUILT-b12d07c" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testing_NOT_BUILT-b12d07c" end time: Nov 06 17:47 FLE Standard Time
+"testing_NOT_BUILT-b12d07c" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 06 17:47 FLE Standard Time

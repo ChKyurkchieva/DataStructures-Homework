@@ -1,0 +1,10 @@
+^C:\USERS\КРИСТИНАКЮРКЧИЕВА\SOURCE\REPOS\HW1-TEMPLATE\CMAKEFILES\3D2CF00BA7C57B275AD3A317CA4225EE\RUN_TESTS_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
